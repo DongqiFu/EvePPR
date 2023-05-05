@@ -2,6 +2,7 @@
 This repository is for the WWW' 2023 paper "Everything Evolves in Personalized PageRank" ([Link](https://dongqifu.github.io/publications/EvePPR.pdf)) .
 
 ## Reference
+```
 @inproceedings{DBLP:conf/www/LiFH23,
   author       = {Zihao Li and
                   Dongqi Fu and

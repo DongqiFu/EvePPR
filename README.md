@@ -1,6 +1,18 @@
 # EvePPR: Everything Evolves in Personalized PageRank
 This repository is for the WWW' 2023 paper "Everything Evolves in Personalized PageRank" ([Link](https://dongqifu.github.io/publications/EvePPR.pdf)) .
 
+
+
+
+
+
+
+## Full code for our experiment
+In our research paper, we run three temporal scenarios on movielens-1m, bitcoinalpha and wikilens datasets. The code can be downloaded from [Google Drive Link](https://drive.google.com/file/d/1S9BTumwhHqbM9UjYzoWZWX6qW3ICn1Jg/view?usp=drive_link) or [this repository](https://github.com/Violet24K/EvePPR-Full)
+
+
+
+
 ## Reference
 ```
 @inproceedings{DBLP:conf/www/LiFH23,

@@ -16,6 +16,8 @@ In our research paper, we run three temporal graph alignment scenarios on moviel
 
 The dataset we used in our experiments are processed [movielens-1m](https://github.com/Violet24K/Movielens-1M-Classified), [bitcoinalpha](https://github.com/Violet24K/Bitcoin-Alpha-Classified) and [wikilens](https://github.com/Violet24K/WikiLens-Classified).
 
+Code for the baselines within our scenarios can be found in the repositories of this github account: [Violet24K](https://github.com/Violet24K).
+
 
 
 ## Reference
